@@ -8,7 +8,7 @@ Visit our website: https://www.eoa-team.net/
 
 ## Data acquisition
 
-- [EOdal]((https://github.com/EOA-team/eodal) -  Python library enabling the acquisition, organization, and analysis of EO data in a completely open-source manner within a unified framework. ![]((https://pypi.org/project/eodal/)https://pypi.org/project/eodal/)
+- [EOdal](https://github.com/EOA-team/eodal) -  Python library enabling the acquisition, organization, and analysis of EO data in a completely open-source manner within a unified framework. ![]((https://pypi.org/project/eodal/)https://pypi.org/project/eodal/)
 
 ## Vegetation monitoring
 
