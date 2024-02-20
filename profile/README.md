@@ -8,13 +8,17 @@ Visit our website: https://www.eoa-team.net/
 
 ## Data acquisition
 
-- [EOdal](https://github.com/EOA-team/eodal) -  Python library enabling the acquisition, organization, and analysis of EO data in a completely open-source manner within a unified framework. ![]((https://pypi.org/project/eodal/)https://pypi.org/project/eodal/)
-
+- [EOdal](https://github.com/EOA-team/eodal) -  Earth Observation Data Analysis Library, a Python library enabling the acquisition, organization, and analysis of EO data in a completely open-source manner within a unified framework. ![](https://pypi.org/project/eodal/)https://pypi.org/project/eodal/)
+- [EOdal notebooks](https://github.com/EOA-team/eodal_notebooks) - Collection of example notebooks showcasting the capabilities of EOdal
+  
 ## Vegetation monitoring
 
 ## Radiative Transfer Models (RTMs)
 
+- [rtm_inv][(https://github.com/EOA-team/rtm_inv) -  Forward run of ProSAIL and SPART RTMs generating look-up tables (LUTs) in Python. LUT-based inversion of RTMs.
+
 ## Trait retrieval
 
+- [sentinel2_crop_traits](https://github.com/EOA-team/sentinel2_crop_traits) - Extract Sentinel-2 data, run PROSAIL simulations, perform the inversion for trait retrieval and implements a phenology model to constrain the inversion. 
 
 
