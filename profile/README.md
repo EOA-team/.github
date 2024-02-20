@@ -11,7 +11,7 @@ Visit our website: https://www.eoa-team.net/
 - [EOdal](https://github.com/EOA-team/eodal) -  Earth Observation Data Analysis Library, a Python library enabling the acquisition, organization, and analysis of EO data in a completely open-source manner within a unified framework. ![](https://pypi.org/project/eodal/)
 - [EOdal notebooks](https://github.com/EOA-team/eodal_notebooks) - Collection of example notebooks showcasting the capabilities of EOdal.
 
-## Geospatial analysis
+## Geospatial analysis :earth_africa:
 
 - [interactive_plots](https://github.com/EOA-team/interactive_plots) - Generate interactive subplots for exploratory analysis in Python.
 - [python-dem-shadows](https://github.com/EOA-team/python-dem-shadows) - A Python library for projecting solar shadows on digital elevation models.
