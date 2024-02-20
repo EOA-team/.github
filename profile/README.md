@@ -6,12 +6,12 @@ We use Earth Observation (EO) and Geographic Information Systems (GIS) and devel
 
 Visit our website: https://www.eoa-team.net/
 
-## Data acquisition
+## Data acquisition :artificial_satellite:
 
 - [EOdal](https://github.com/EOA-team/eodal) -  Earth Observation Data Analysis Library, a Python library enabling the acquisition, organization, and analysis of EO data in a completely open-source manner within a unified framework. ![](https://pypi.org/project/eodal/)
 - [EOdal notebooks](https://github.com/EOA-team/eodal_notebooks) - Collection of example notebooks showcasting the capabilities of EOdal
   
-## Vegetation monitoring
+## Vegetation monitoring :seedling:
 
 ## Radiative Transfer Models (RTMs)
 
