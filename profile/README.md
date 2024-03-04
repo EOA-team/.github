@@ -37,7 +37,7 @@ Visit our website: https://www.eoa-team.net/
 
 You can find our publications below:
 
-- Graf, L.V., Merz, Q.M, Walter, A., Aasen, H. (2023) "Insights from field phenotyping improve satellite remote sensing based in-season estimation of winter wheat growth and phenology". Remote Sensing of Environment. DOI:https://doi.org/10.1016/j.rse.2023.113860.
-- Graf, L.V., Tschurr, F., Aasen, H., Walter, A. (2023) "Probabilistic assimilation of optical satellite data with physiologically based growth functions improves crop trait time series reconstruction".
-- Graf, L.V., Perich, G., Aasen, H. (2022) "EOdal: An open-source Python package for large-scale agroecological research using Earth Observation and gridded environmental data".
-- Graf, L.V., Gorroño, J., Hueni, A., Walter, A., Aasen, H. (2023) "Propagating Sentinel-2 Top-of-Atmosphere Radiometric Uncertainty into Land Surface Phenology Metrics Using a Monte Carlo Framework".
+- Graf, L.V., Merz, Q.M, Walter, A., Aasen, H. (2023) "Insights from field phenotyping improve satellite remote sensing based in-season estimation of winter wheat growth and phenology".*Remote Sensing of Environment*. DOI:https://doi.org/10.1016/j.rse.2023.113860.
+- Graf, L.V., Tschurr, F., Aasen, H., Walter, A. (2023) "Probabilistic assimilation of optical satellite data with physiologically based growth functions improves crop trait time series reconstruction". *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*. DOI:https://doi.org/10.31223/X5596B
+- Graf, L.V., Perich, G., Aasen, H. (2022) "EOdal: An open-source Python package for large-scale agroecological research using Earth Observation and gridded environmental data". *Computers and Electronics in Agriculture*. DOI:https://doi.org/10.1016/j.compag.2022.107487
+- Graf, L.V., Gorroño, J., Hueni, A., Walter, A., Aasen, H. (2023) "Propagating Sentinel-2 Top-of-Atmosphere Radiometric Uncertainty into Land Surface Phenology Metrics Using a Monte Carlo Framework". *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*. DOI:10.1109/JSTARS.2023.3297713
