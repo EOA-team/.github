@@ -25,6 +25,7 @@ Visit our website: https://www.eoa-team.net/
 
 - [rtm_inv](https://github.com/EOA-team/rtm_inv) -  Forward run of ProSAIL and SPART RTMs generating look-up tables (LUTs) in Python. LUT-based inversion of RTMs to be used with Sentinel2A and B, Landsat 8 and 9, and PlanetScope SuperDove.
 - [PyProSAIL](https://github.com/EOA-team/PyProSAIL)- Python interface to the ProSAIL combined leaf and canopy radiative transfer model.
+- [ProSAIL_forward](https://github.com/EOA-team/ProSAIL_forward/tree/main) - Do the forward run of the ProSAIL RTM. Generates look up tables with plant trait and resepective reflectance spectra for Sentinel2.
 
 ## Trait retrieval :mag:
 
