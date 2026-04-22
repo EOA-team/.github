@@ -34,8 +34,8 @@ Visit our website: https://www.eoa-team.net/
 
 
 ## Fractional cover and erosion :seedling:
-[erosion_indicator](https://github.com/EOA-team/erosion_indicator) - Development of an erosion risk indicator (C-factor) based on satellite-derived fractional cover.\
-[FC_models](https://github.com/EOA-team/FC_models) - Train FVC models for Sentinel2, PlanetScope, and subset of their bands.
+- [erosion_indicator](https://github.com/EOA-team/erosion_indicator) - Development of an erosion risk indicator (C-factor) based on satellite-derived fractional cover.\
+- [FC_models](https://github.com/EOA-team/FC_models) - Train FVC models for Sentinel2, PlanetScope, and subset of their bands.
 
 
 ## Publications :page_with_curl:
